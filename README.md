@@ -1,6 +1,6 @@
 # BPM180 - Pressure and temperature sensor driver for NodeMCU
 
-The BPM180 is a very common sensor to measure pressure and temperature, it largely distributed in chinese breakout boards as GY-87.
+The BPM180 is a very common sensor to measure pressure and temperature, it largely distributed in chinese breakout boards as GY-68.
 This project implements a Lua module to run on NodeMCU v1.0 (commonly known as v2) using NodeMCU/Lua firmware.
 
 ## Requirements
